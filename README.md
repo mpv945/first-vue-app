@@ -3,6 +3,10 @@
 ## 初始化项目
 1.   vue的cli创建脚手化框架 ，执行npx @vue/cli create first-vue-app，有两次提示，第一次y，回车，第二次直接回车，使用默认
 2.  cd 到first-vue-app目录 ，执行npm run serve 运行
+
+## vue前端常用UI框架 https://www.jianshu.com/p/398a3b2e535f
+
+
 ## Project setup
 ```
 npm install
